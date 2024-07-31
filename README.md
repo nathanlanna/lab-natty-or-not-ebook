@@ -20,19 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Propriedades Periódicas: O que você realmente precisa saber.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um Ebook educacional para area de Química, que promove conhecimento na disciplina de Tabela Periódica. Utilizei das AI para fornecer uma estrutura e aprimoramento ao conhecimento que ja tinha na area, gerando um documento conciso e resumido para fácil aprendizado.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+- Microsoft Copilot para estruturação do texto.
+- Leonardo AI para criação das imagens utilizadas.
+- Libre office para formatação final.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+utilizei um prompt de requisição ao Coplilot que retornou para mim o conteudo do texto já organizado em tópicos, que formatei no Libre office e adicionei a capa do ebook com imagens geradas por outro prompt no Leonardo AI.
+
+### prompt copilot:
+--- 
+Você é um professor de quimica criando um ebook para ensinar sobre propriedades da tabela periódica.
+---
+Este ebook deve conter:
+. diagramas da tabela periódica para cada propriedades que mostrem setas de crescimento e decrescimento da propriedade.
+. exemplos de questões sobre propriedades da tabela periódica.
+. nao ter mais de 5 páginas.
+
+### prompt Leonardo AI:
+A shimmering periodic table with arrow diagrams of Atomic Radius, Electronegativity, and Ionization Energy, showcasing a stunning array of colors and intricate details. The vibrant hues and precise markings make this educational tool a work of art in itself, blending science with aesthetics. The glossy finish enhances the clarity of the labels and arrows, making this image not only informative but also visually captivating. Its meticulous design and vibrant palette elevate this simple chart into a masterpiece that is both functional and visually appealing.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
