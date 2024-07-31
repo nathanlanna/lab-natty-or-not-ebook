@@ -19,7 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # Propriedades Periódicas: O que você realmente precisa saber.
 
 ## 📒 Descrição
@@ -50,11 +50,11 @@ A shimmering periodic table with arrow diagrams of Atomic Radius, Electronegativ
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+- [E-book](/exemplos/ebook_DIO.odt)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Experiencia muito interessante, como a IA consegue de forma rápida entregar um resultado como se tivesse sido escrito e resumido por um humano.
 
 ### Exemplos e Insigths
 
